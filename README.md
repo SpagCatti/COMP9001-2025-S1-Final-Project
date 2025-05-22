@@ -3,7 +3,6 @@
 A comprehensive command-line application for studying Japanese vocabulary and characters, featuring JLPT-level quizzes, progress tracking, and mistake review functionality.
 
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Features ✨
 
@@ -183,22 +182,9 @@ Contributions are welcome! Here are some ways you can help:
 - Ensure the application has write permissions in the `data/` directory
 - Check that the CSV files aren't opened in another application
 
-### File Permissions
-If you encounter permission errors:
-```bash
-chmod 755 data/
-chmod 644 data/*.csv
-```
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments 🙏
 
-- Inspired by the need for effective Japanese language learning tools
-- Built with Python's robust standard library
-- Designed for learners preparing for JLPT examinations
+- Inspired by the need to study for my upcoming JLPT test in a month...
 
 ## Future Enhancements 🚀
 
